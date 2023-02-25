@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\hien\source\repos\lab1_zad4\lab1_zad4\source.cpp(11): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lab1_Zad4.vcxproj -> C:\Users\Hien\source\repos\Lab1_Zad4\Debug\Lab1_Zad4.exe
