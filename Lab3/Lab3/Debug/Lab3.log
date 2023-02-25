@@ -1,0 +1,6 @@
+﻿  CNodeStatic.cpp
+c:\users\hien\source\repos\lab3\lab3\cnodestatic.cpp(37): warning C4018: '>=': signed/unsigned mismatch
+c:\users\hien\source\repos\lab3\lab3\cnodestatic.cpp(41): warning C4018: '>=': signed/unsigned mismatch
+c:\users\hien\source\repos\lab3\lab3\cnodestatic.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\hien\source\repos\lab3\lab3\cnodestatic.cpp(57): warning C4018: '<': signed/unsigned mismatch
+  Lab3.vcxproj -> C:\Users\Hien\source\repos\Lab3\Debug\Lab3.exe
