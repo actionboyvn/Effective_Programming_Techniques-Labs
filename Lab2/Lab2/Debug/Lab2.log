@@ -1,0 +1,3 @@
+﻿  CTable.cpp
+CTable.obj : error LNK2019: unresolved external symbol "public: __thiscall CTable::CTable(class CTable &)" (??0CTable@@QAE@AAV0@@Z) referenced in function "public: class CTable __thiscall CTable::operator+(class CTable const &)" (??HCTable@@QAE?AV0@ABV0@@Z)
+C:\Users\Hien\source\repos\Lab2\Debug\Lab2.exe : fatal error LNK1120: 1 unresolved externals
