@@ -1,0 +1,43 @@
+﻿  Source.cpp
+c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(59): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(58): note: while compiling class template member function 'void CNodeDynamic<int>::vAddNewChild(void)'
+  c:\users\hien\source\repos\lab4\lab4\source.cpp(10): note: see reference to function template instantiation 'void CNodeDynamic<int>::vAddNewChild(void)' being compiled
+  c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(135): note: see reference to class template instantiation 'CNodeDynamic<int>' being compiled
+c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(76): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(75): note: while compiling class template member function 'CNodeDynamic<int> *CNodeDynamic<int>::pcGetChild(int)'
+  c:\users\hien\source\repos\lab4\lab4\source.cpp(13): note: see reference to function template instantiation 'CNodeDynamic<int> *CNodeDynamic<int>::pcGetChild(int)' being compiled
+c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(113): warning C4018: '<': signed/unsigned mismatch
+  c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(111): note: while compiling class template member function 'void CNodeDynamic<int>::vPrune(T)'
+          with
+          [
+              T=int
+          ]
+  c:\users\hien\source\repos\lab4\lab4\source.cpp(107): note: see reference to function template instantiation 'void CNodeDynamic<int>::vPrune(T)' being compiled
+          with
+          [
+              T=int
+          ]
+c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(42): warning C4018: '<': signed/unsigned mismatch
+  c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(41): note: while compiling class template member function 'CNodeDynamic<int>::~CNodeDynamic(void)'
+  c:\users\hien\source\repos\lab4\lab4\source.cpp(119): note: see reference to function template instantiation 'CNodeDynamic<int>::~CNodeDynamic(void)' being compiled
+  c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(48): note: while compiling class template member function 'void CNodeDynamic<int>::vSetValue(T)'
+          with
+          [
+              T=int
+          ]
+  c:\users\hien\source\repos\lab4\lab4\source.cpp(7): note: see reference to function template instantiation 'void CNodeDynamic<int>::vSetValue(T)' being compiled
+          with
+          [
+              T=int
+          ]
+c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(68): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(67): note: while compiling class template member function 'void CNodeDynamic<int>::vAddNewChild(CNodeDynamic<int> *)'
+  c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(120): note: see reference to function template instantiation 'void CNodeDynamic<int>::vAddNewChild(CNodeDynamic<int> *)' being compiled
+c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(83): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(82): note: while compiling class template member function 'void CNodeDynamic<int>::vRemoveChild(int)'
+  c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(118): note: see reference to function template instantiation 'void CNodeDynamic<int>::vRemoveChild(int)' being compiled
+c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(100): warning C4018: '<': signed/unsigned mismatch
+  c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(98): note: while compiling class template member function 'void CNodeDynamic<int>::vPrintAllBelow(void)'
+  c:\users\hien\source\repos\lab4\lab4\ctreedynamic.h(167): note: see reference to function template instantiation 'void CNodeDynamic<int>::vPrintAllBelow(void)' being compiled
+  Lab4.vcxproj -> C:\Users\Hien\source\repos\Lab4\Debug\Lab4.exe
